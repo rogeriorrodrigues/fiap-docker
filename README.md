@@ -1,2 +1,2 @@
-# fiap-docker
-Aulas de Docker para a FIAP
+# docker-books
+Projeto das Aulas FIAP sobre Docker
